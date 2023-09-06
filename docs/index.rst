@@ -1,12 +1,18 @@
-Welcome to My Vacancy Management System Documentation
-=====================================================
+Vacancy Management System Documentation
+=======================================
 
-Hello World
------------
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
 
-This is a simple "Hello World" message for your Vacancy Management System documentation.
+   registration
+   login
+   forgot_password
+   dashboard
 
-.. note::
+Indices and Search
+==================
 
-   You can replace this content with your actual documentation.
-
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
