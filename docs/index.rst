@@ -17,6 +17,7 @@ Welcome to the official documentation for the Vacancy Management System.
 
     registration
     contactinformation
+    familymamabers
     login
     forgot_password
     dashboard
