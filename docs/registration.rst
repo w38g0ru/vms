@@ -1,29 +1,23 @@
-Registration Process
-====================
+# Registration Process Guide
 
-.. contents:: Table of Contents
-   :local:
+Welcome to the Vacancy Management System registration process guide. This guide will walk you through the steps required to access our system and provide detailed instructions on completing the registration form.
 
-Introduction
-------------
+## Accessing the Registration Page
 
-The registration process is the first step to access the Vacancy Management System. This guide will walk you through the registration form and provide instructions on how to complete it.
+To begin the registration process, please follow these simple steps:
 
-Accessing the Registration Page
-------------------------------
+1. **Open your web browser**.
 
-To access the Registration page, follow these steps:
+2. **Enter the URL**: Visit the Vacancy Management System website by navigating to [https://vacancy.bpkihs.edu](https://vacancy.bpkihs.edu).
 
-1. Open your web browser.
+3. **Access the Registration Page**:
+   - Scroll down to the bottom-left of the login form on the page.
+   - Click on the "Not yet registered?" link.
+   - Alternatively, you can directly access the registration page by visiting [https://vacancy.bpkihs.edu/register](https://vacancy.bpkihs.edu/register).
 
-2. Enter the URL for the Vacancy Management System: `https://vacancy.bpkihs.edu`.
+## Registration Form Fields
 
-3. In the navigation menu, click on "Register." This will take you to the Registration page.
-
-Registration Form Fields
-------------------------
-
-The registration form includes the following fields:
+The registration form contains the following mandatory fields:
 
 - **First Name**: Enter your given name as it appears on official documents.
 
@@ -31,49 +25,28 @@ The registration form includes the following fields:
 
 - **Sex**: Select your gender from the provided options (Male or Female).
 
-- **Date of Birth**: Input your birth date in the format mm/dd/yyyy as per official documents.
+- **Date of Birth**: Input your birth date in the format mm/dd/yyyy as per official documents. You can easily convert your date of birth [here](https://dateconversion.net/).
 
-- **Mobile**: Provide a valid mobile number, including the country code (e.g., +1234567890).
+- **Mobile Number**: Provide a valid mobile number. It should begin with either 9, 7, or 6 and be 10 digits long. You can use the same mobile number for multiple registrations (e.g., for yourself and your relatives).
 
-- **Email**: Enter a valid and active email address. This email will be used for account recovery, notifications, and as your username. You will need to verify this email later.
+- **Email Address**: Enter a valid and active email address. This email will be used for account recovery, notifications, and as your username. You will need to verify this email later. Please ensure that your provided email address is valid and actively monitored, as it will be used for account recovery and notifications. Multiple registrations with the same email address are not accepted.
 
-- **Citizenship**: Input your birth date as on official documents (e.g., citizenship, passport) in A.D.
+- **Citizenship Number**: Provide your citizenship number.
 
-- **National ID**: Enter your valid national identification number.
+- **National Identification Number (NID)**: Enter your valid national identification number (NID). While this is optional for now, it may be linked with other services in the future.
 
-- **Password**: Create a strong password with at least 8 characters. It should include a mix of letters and numbers.
+- **Password**: Create a strong password with a minimum of 8 characters, including a mix of letters and numbers.
 
 - **Confirm Password**: Re-enter your password to ensure it matches the one you initially provided.
 
-Registration Instructions
-------------------------
+## Registration Instructions
 
-1. Fill in each field accurately with the required information.
+Now that you've filled in all the required information, please follow these final steps:
 
-2. Ensure that your provided email address is valid and actively monitored, as it will be used for account recovery and notifications.
+1. **Review Your Information**: Take a moment to review all the details you've entered to ensure accuracy.
 
-3. Choose a strong password that meets the minimum requirements. It should be at least 8 characters long and include a combination of letters and numbers.
+2. **Complete Registration**: Click the "Register" or "Submit" button to create your account.
 
-4. Double-check your password by entering it in the "Confirm Password" field to ensure it matches the initial entry.
+3. **Email Confirmation**: You will receive an email confirming your successful registration. Please keep this email safe as it contains your username and password.
 
-5. Review all the information you've entered to make sure it's correct.
-
-6. Click the "Register" or "Submit" button to create your account.
-
-Verification
-------------
-
-After submitting the registration form, you may be required to verify your email address. Check your email inbox for a verification message and follow the provided instructions to complete the registration process.
-
-Troubleshooting
----------------
-
-If you encounter any issues during the registration process, such as an invalid email address or password requirement errors, refer to the troubleshooting section in the documentation for solutions.
-
-Conclusion
-----------
-
-Congratulations! You've successfully completed the registration process for the Vacancy Management System. You can now log in using your registered email and password to access the system's features.
-
-For further assistance or inquiries, please contact our support team at [support@vacancy.bpkihs.edu](mailto:support@vacancy.bpkihs.edu).
-
+If you require further assistance or have any inquiries, please don't hesitate to contact our support team at [support@vacancy.bpkihs.edu](mailto:support@vacancy.bpkihs.edu). We're here to help you with any questions or concerns you may have.
