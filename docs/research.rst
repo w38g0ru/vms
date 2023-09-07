@@ -12,7 +12,7 @@ When you click on the "Research Work" link, you will be presented with a list of
 
 **Adding a New Research Work**
 
-To add a new research work,  please provide the following information::
+To add a new research work,  please provide the following information:
 
 - **Subject**: Specify the subject or field in which your research work is focused.
 
