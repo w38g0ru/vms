@@ -8,7 +8,7 @@ This section allows you to document your research work and provide detailed info
 
 **Accessing Your Research Work**
 
-When you click on the "Research Work" link, you will be presented with a list of your previously added research work. If you haven't added any research work yet, the page will be blank. Should you need to add a new work experience, simply click the “+Add” button. This action will prompt you to fill out a form with the required information.
+When you click on the "Research Work" link, you will be presented with a list of your previously added research work. If you haven't added any research work yet, the page will be blank. Should you need to add a new research work, simply click the “+Add” button. This action will prompt you to fill out a form with the required information.
 
 **Adding a New Research Work**
 
