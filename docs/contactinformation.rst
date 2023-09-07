@@ -9,9 +9,9 @@ Both permanent and temporary addresses are mandatory, even if they are the same.
 
 When you click on the “Contact Information” link, you will see a list of contact information you have already provided. If you haven’t added any contact information yet, the page will be blank.
 
-**Adding a New Family Member**
+**Adding a New Contact Information**
 
-To add a new family member, simply click the “+Add” button. You will be presented with a form to enter the family member’s information.
+To add a new contact information, simply click the “+Add” button. You will be presented with a form to enter the family member’s information.
 
 **Contact Form**
 
@@ -25,6 +25,6 @@ To add a new family member, simply click the “+Add” button. You will be pres
 
 - **Select Address Type**: Confirm whether the address you provided is your "Temporary" or "Permanent" address.
 
-If everything is correct, click the “Submit” button to save the family member’s information.
+If everything is correct, click the “Submit” button to save the contact information.
 
 This feature allows you to maintain a record of your close relatives, making it easier to reference their information in various parts of the system.
