@@ -3,13 +3,16 @@ Publication
 
 This section enables you to document your research publications and provide detailed information about each publication.
 
+.. note:: 
+   This section is optional; otherwise, it should be mentioned as required in the advertisement.
+
 **Accessing Your Research Publications**
 
-Click on the "Publication" link to access your list of previously added research publications. If you haven't added any research publications yet, the page will be empty.
+Click on the "Publication" link to access your list of previously added research publications. If you haven't added any research publications yet, the page will be empty. Should you need to add a new publication, simply click the “+Add” button. This action will prompt you to fill out a form with the required information.
 
 **Adding a New Research Publication**
 
-To add a new research publication, follow these steps:
+To add a new research publication, please provide the following information:
 
 - **Title**: Provide the title of your published research publication.
 
