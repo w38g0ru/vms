@@ -16,6 +16,7 @@ Welcome to the official documentation for the Vacancy Management System.
     :caption: Contents:
 
     registration
+    contactinformation
     login
     forgot_password
     dashboard
