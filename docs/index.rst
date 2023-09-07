@@ -18,6 +18,11 @@ Welcome to the official documentation for the Vacancy Management System.
     registration
     contactinformation
     familymamabers
+    workexperience
+    qualification
+    publication
+    research
+    documents
     login
     forgot_password
     dashboard
