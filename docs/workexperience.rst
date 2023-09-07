@@ -1,7 +1,7 @@
 Work Experience
 ===============
 
-This section allows you to document your previous work experiences in detail.
+Click "Work Experience" to access your past work records or add new experiences using the "+Add" button, filling in job titles, organization names, types, employment dates, and job descriptions, streamlining your work history record keeping for future reference.
 
 .. note:: 
    This section is optional; otherwise, it should be mentioned as required in the advertisement.
