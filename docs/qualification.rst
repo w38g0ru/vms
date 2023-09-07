@@ -3,13 +3,16 @@ Academic Record
 
 This section allows you to document your academic achievements and educational history in detail.
 
+.. note:: 
+   This section is mandatory as mentioned in the minimum qualification for the advertisement.
+
 **Accessing Your Academic Record**
 
-When you click on the "Qualification" link, you will be presented with a list of your previously added academic records. If you haven't added any academic records yet, the page will be blank.
+When you click on the "Qualification" link, you will be presented with a list of your previously added academic records. If you haven't added any academic records yet, the page will be blank. Should you need to add a new academic record, simply click the “+Add” button. This action will prompt you to fill out a form with the required information.
 
 **Adding a New Academic Record**
 
-To add a new academic record, follow these steps:
+To add a new academic record, please provide the following information:
 
 - **School/University**: Provide the full name of the school or university where you pursued your education. Abbreviations are discouraged to ensure clarity.
 
