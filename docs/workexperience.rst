@@ -1,22 +1,26 @@
 Work Experience
-==================
+===============
 
-This section allows you to collect the names of your close relatives, including Grandfather, Father, Mother, Spouse, Son, and Daughter. The system will automatically insert the gender of each person based on your relation to them. If the person is deceased and they are your guardian, please write "Late." It is advisable to provide the names of your parents as mentioned in your legal documents.
+This section allows you to document your previous work experiences in detail.
 
-**Accessing the Family Member List**
+**Accessing Your Previous Work Experience**
 
-When you click on the "Contact Information" link, you will see a list of family members you have already provided. If you haven't added any family members yet, the page will be blank.
+When you click on the "Work Experience" link, you will be presented with a list of your previously added work experiences. If you haven't added any work experience yet, the page will be blank.
 
-**Adding a New Family Member**
+**Adding a New Work Experience**
 
-To add a new family member, simply click the "+Add" button. You will be presented with a form to enter the family member's information.
+To add a new work experience, follow these steps:
 
-**Family Information Form**
+- **Designation**: Provide the job title or position you held during this experience.
 
-- **Name**: Provide the name of the family member.
+- **Organization**: Enter the full name of the organization where you gained this work experience.
 
-- **Relation**: Specify the relationship with the family member.
+- **Organization Type**: Specify the type of organization (e.g., Government Hospital, Private College).
 
-If everything is correct, click the "Submit" button to save the family member's information.
+- **From Date**: Indicate the date you started working in this position at the organization.
 
-This feature allows you to maintain a record of your close relatives, making it easier to reference their information in various parts of the system.
+- **To Date**: Enter the date when you concluded your employment in this position at the organization.
+
+- **Job Description**: Describe the main responsibilities and duties associated with this position during the specified period.
+
+This feature allows you to maintain a comprehensive record of your work history, making it easier to provide accurate employment details when needed.
