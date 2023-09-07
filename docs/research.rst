@@ -1,7 +1,7 @@
 Research Work
 =============
 
-This page serves as a platform for efficiently managing your research work. It allows you to access a list of your previously documented research projects and facilitates the addition of new entries. When you visit this page, you can review your existing research work, and if you haven't added any yet, the page will be blank. To expand your record, simply click the "+Add" button, which will lead you to a form where you can provide essential information about each research project, including its subject, the associated research publication's name, author details (including your involvement if applicable), and a checkbox to indicate if the research work has been published. This feature enables you to maintain a comprehensive and organized record of your research contributions, making it easier to highlight your scholarly achievements and contributions in various contexts.
+Click "Research Work" to manage and add research projects. Input project details like subject, publication name, author info, and publication status for organized record-keeping and easy referencing in academic and professional contexts.
 
 .. note:: 
    This section is optional; however, it may be required as specified in the advertisement.
