@@ -8,7 +8,7 @@ This section allows you to collect the names of your close relatives, including 
 
 **Accessing the Family Member List**
 
-When you click on the "Contact Information" link, you will see a list of family members you have already provided. If you haven't added any family members yet, the page will be blank.
+When you click on the "Family Information" link, you will see a list of family members you have already provided. If you haven't added any family members yet, the page will be blank.
 
 **Adding a New Family Member**
 
