@@ -18,6 +18,17 @@ To begin the registration process, please follow these simple steps:
    - Click on the "Not yet registered?" link.
    - Alternatively, you can directly access the registration page by visiting `https://vacancy.bpkihs.edu/register`.
 
+.. admonition:: Registration Instructions
+   :class: registration-info-card
+
+   Now that you've filled in all the required information, please follow these final steps:
+
+   1. **Review Your Information**: Take a moment to review all the details you've entered to ensure accuracy.
+
+   2. **Complete Registration**: Click the "Register" or "Submit" button to create your account.
+
+   3. **Email Confirmation**: You will receive an email confirming your successful registration. Please keep this email safe as it contains your username and password.
+
 Registration Form Fields
 ------------------------
 
@@ -42,16 +53,5 @@ The registration form contains the following mandatory fields:
 - **Password**: Create a strong password with a minimum of 8 characters, including a mix of letters and numbers.
 
 - **Confirm Password**: Re-enter your password to ensure it matches the one you initially provided.
-
-Registration Instructions
-------------------------
-
-Now that you've filled in all the required information, please follow these final steps:
-
-1. Review Your Information: Take a moment to review all the details you've entered to ensure accuracy.
-
-2. Complete Registration: Click the "Register" or "Submit" button to create your account.
-
-3. Email Confirmation: You will receive an email confirming your successful registration. Please keep this email safe as it contains your username and password.
 
 If you require further assistance or have any inquiries, please don't hesitate to contact our support team at `support@vacancy.bpkihs.edu <mailto:support@vacancy.bpkihs.edu>`. We're here to help you with any questions or concerns you may have.
