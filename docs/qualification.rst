@@ -1,7 +1,7 @@
 Academic Record
 ===============
 
-This section allows you to document your academic achievements and educational history in detail.
+To access your academic record, click on the “Qualification” link, which will display a list of your previously added academic records. If you haven't added any academic records yet, the page will be empty. To add a new academic record, click the “+Add” button, which will open a form for you to input the necessary information. In this academic record form, provide the full name of the school or university where you pursued your education (avoiding abbreviations for clarity), specify the start and end dates of your course or program, identify the course or program completed during that period, highlight the major subject or field of study, and mention the grade or academic achievement obtained in your examinations. This feature facilitates the maintenance of a comprehensive record of your educational achievements, making it convenient to provide accurate details for various academic and professional purposes.
 
 .. note:: 
    This section is mandatory as per the minimum qualification requirement stated in the advertisement.
