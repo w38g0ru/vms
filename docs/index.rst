@@ -16,7 +16,11 @@ Welcome to the official documentation for the Vacancy Management System.
     :caption: Contents:
 
     registration
+    login
+    forgot_password
+
     :caption: Dashboard:
+    dashboard
     documents
     contactinformation
     familymamabers
@@ -24,9 +28,7 @@ Welcome to the official documentation for the Vacancy Management System.
     qualification
     publication
     research    
-    login
-    forgot_password
-    dashboard
+    
 
 Indices and Search
 ==================
