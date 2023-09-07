@@ -1,24 +1,27 @@
-Document(s)
-=============
+Documents
+=========
 
-This section allows you to provide details about the files you have uploaded. Here, you can upload files required for specific advertisements or other purposes.
+This section provides a platform for managing and uploading essential files required for specific advertisements or other purposes.
+
+.. note:: 
+   This section is mandatory as mentioned in the minimum documents required for the advertisement.
 
 **Accessing Your Uploaded Files**
 
-When you click on the "My Documents" link, you will be presented with a list of files you have previously uploaded. If you haven't added any files yet, the page will be blank.
+When you click on the "My Documents" link, you'll access a list of files you've previously uploaded. If you haven't added any files yet, the page will be empty.
 
 **Adding a New Document**
 
-To add a new document, simply click the “+Add” button. You will be presented with a form to upload file.
+To upload a new document, simply click the "+Add" button. This action will prompt you to fill out a form for uploading your file.
 
-**Adding a New Document**
+**Uploading a New Document**
 
-To upload a new document, follow these steps:
+When uploading a new document, follow these steps:
 
-- **Title**: Provide a name for the document.
+- **Title**: Enter a name for the document.
 
-- **File**: Browse and select the file you wish to upload from your local system. Please ensure that the file format is PDF, DOCX, JPG, or PNG.
+- **File**: Browse your local system and select the file you want to upload. Ensure the file format is either PDF, DOCX, JPG, or PNG.
 
-If everything is correct, click the “Submit” button to save the family member’s information.
+After confirming the details, click the "Submit" button to save the document's information.
 
-This feature allows you to manage and access the files you've uploaded for various purposes, making it convenient to attach the necessary documents when needed.
+This feature streamlines the process of managing and accessing your uploaded files for various purposes, providing convenience when attaching necessary documents as required.
