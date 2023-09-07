@@ -1,4 +1,4 @@
-Contact Information
+Family Mamaber(s)
 ==================
 
 This section allows you to collect the names of your close relatives, including Grandfather, Father, Mother, Spouse, Son, and Daughter. The system will automatically insert the gender of each person based on your relation to them. If the person is deceased and they are your guardian, please write "Late." It is advisable to provide the names of your parents as mentioned in your legal documents.
