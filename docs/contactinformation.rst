@@ -5,11 +5,15 @@ This section guides you through the process of providing contact information for
 
 Both permanent and temporary addresses are mandatory, even if they are the same.
 
-**Accessing Contact Address**
+**Accessing the Contact Information**
 
-When you click on the "Contact Address" link, it will display the address you have inserted. If you wish to add a new address, simply click the "+Add" button, and you will be presented with the address form.
+When you click on the “Contact Information” link, you will see a list of contact information you have already provided. If you haven’t added any contact information yet, the page will be blank.
 
-**Address Details**
+**Adding a New Family Member**
+
+To add a new family member, simply click the “+Add” button. You will be presented with a form to enter the family member’s information.
+
+**Contact Form**
 
 - **Province**: Upon loading the page, you will see a list of seven provinces.
 
@@ -17,6 +21,10 @@ When you click on the "Contact Address" link, it will display the address you ha
 
 - **Local Government (Palika)**: Also initially empty, this field will populate with options when you select a district.
 
-- **Ward Number**: You need to enter a maximum of 2 digits for the ward number.
+- **Ward Number**: Enter a maximum of 2 digits for the ward number.
 
 - **Select Address Type**: Confirm whether the address you provided is your "Temporary" or "Permanent" address.
+
+If everything is correct, click the “Submit” button to save the family member’s information.
+
+This feature allows you to maintain a record of your close relatives, making it easier to reference their information in various parts of the system.
