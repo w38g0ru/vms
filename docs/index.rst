@@ -47,6 +47,7 @@ Dashboard
 ---------
 
 .. include:: dashboard.rst
+.. include:: contactinformation.rst
 
 Feedback and Support
 --------------------
