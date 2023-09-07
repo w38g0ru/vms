@@ -4,15 +4,17 @@ Research Work
 This section allows you to document your research work and provide detailed information about each project.
 
 .. note:: 
-   This section is optional; otherwise, it should be mentioned as required in the advertisement.
+   This section is optional; however, it may be required as specified in the advertisement.
 
 **Accessing Your Research Work**
 
-When you click on the "Research Work" link, you will be presented with a list of your previously added research work. If you haven't added any research work yet, the page will be blank. Should you need to add a new research work, simply click the “+Add” button. This action will prompt you to fill out a form with the required information.
+When you click on the "Research Work" link, you will be presented with a list of your previously added research work. If you haven't added any research work yet, the page will be blank. 
 
-**Adding a New Research Work**
+**Adding a Research Work**
 
-To add a new research work,  please provide the following information:
+To add a new research work, click the “+Add” button. This action will prompt you to fill out a form with the required information.
+
+**Research Work Form**
 
 - **Subject**: Specify the subject or field in which your research work is focused.
 
@@ -22,4 +24,6 @@ To add a new research work,  please provide the following information:
 
 - **Published**: Check this option if the research work has been published and you have provided it in the research publication section.
 
-This feature allows you to maintain a comprehensive record of your research projects, making it easier to showcase your contributions to various subjects and publications.
+If everything is correct, click the “Submit” button to save the research work information.
+
+This feature enables you to maintain a comprehensive record of your research projects, making it easier to showcase your contributions to various subjects and publications.
