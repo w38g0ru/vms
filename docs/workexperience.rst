@@ -3,13 +3,17 @@ Work Experience
 
 This section allows you to document your previous work experiences in detail.
 
+.. note:: 
+   This section is optional; otherwise, it should be mentioned as required in the advertisement.
+
 **Accessing Your Previous Work Experience**
 
-When you click on the "Work Experience" link, you will be presented with a list of your previously added work experiences. If you haven't added any work experience yet, the page will be blank.
+When you click on the "Work Experience" link, you will be directed to a page displaying a list of your previously added work experiences. If you haven't added any work experiences yet, the page will be empty.
+Should you need to add a new work experience, simply click the “+Add” button. This action will prompt you to fill out a form with the required information.
 
 **Adding a New Work Experience**
 
-To add a new work experience, follow these steps:
+To add a new work experience, please provide the following information:
 
 - **Designation**: Provide the job title or position you held during this experience.
 
