@@ -4,15 +4,17 @@ Publication
 This section enables you to document your research publications and provide detailed information about each publication.
 
 .. note:: 
-   This section is optional; otherwise, it should be mentioned as required in the advertisement.
+   This section is optional; however, it may be required as specified in the advertisement.
 
 **Accessing Your Research Publications**
 
-Click on the "Publication" link to access your list of previously added research publications. If you haven't added any research publications yet, the page will be empty. Should you need to add a new publication, simply click the “+Add” button. This action will prompt you to fill out a form with the required information.
+Click on the "Publication" link to access your list of previously added research publications. If you haven't added any research publications yet, the page will be empty.
 
 **Adding a New Research Publication**
 
-To add a new research publication, please provide the following information:
+To add a new research publication, simply click the “+Add” button. This action will open a form where you can enter the required information.
+
+**Research Publication Form**
 
 - **Title**: Provide the title of your published research publication.
 
@@ -25,5 +27,7 @@ To add a new research publication, please provide the following information:
 - **Co-Author**: List the names of co-authors, if any. Leave this field blank if there are no co-authors.
 
 - **Description**: Elaborate on the content and significance of your publication.
+
+If everything is correct, click the “Submit” button to save the research publication information.
 
 This feature allows you to maintain a comprehensive record of your research publications, making it easier to showcase your scholarly achievements and contributions.
