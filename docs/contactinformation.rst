@@ -3,8 +3,9 @@ Contact Information
 
 This section guides you through the process of providing contact information for applicants. Each applicant must provide both permanent and temporary addresses. The permanent address should match the information on your Citizenship card and must adhere to the federal system. You can convert your old zonal system address using the government's website.
 
-.. note:: 
-Both permanent and temporary addresses are required, even if they are identical. Only two sets of records are allowed.
+.. note::
+
+   Both permanent and temporary addresses are required, even if they are identical. A maximum of two sets of records is allowed.
 
 **Accessing the Contact Information**
 
