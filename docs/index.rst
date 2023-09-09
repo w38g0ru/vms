@@ -25,10 +25,7 @@ Contents
     publication
     research
 
-Login
------
-
-For information on how to log in to the Vacancy Management System, please refer to the :doc:`login` documentation.
+.. include:: login.rst
 
 Feedback and Support
 --------------------
