@@ -1,5 +1,6 @@
-*Creating an Account*
--------------------
+==========================
+Creating an Account
+==========================
 
 To register in the Vacancy Management System, you must first create an account. Follow these steps to get started:
 
@@ -9,8 +10,9 @@ To register in the Vacancy Management System, you must first create an account. 
 
 3. Complete the registration process by following the on-screen instructions.
 
-*Logging In*
-----------
+--------------------------
+Logging In
+--------------------------
 
 Once you've successfully registered, you can log in to the system using the following steps:
 
@@ -22,8 +24,9 @@ Once you've successfully registered, you can log in to the system using the foll
 
 4. Click the "Login" button to access your account.
 
-*Forgot Password*
---------------
+--------------------------
+Forgot Password
+--------------------------
 
 If you ever forget your password or need to reset it, follow these steps:
 
@@ -34,4 +37,5 @@ If you ever forget your password or need to reset it, follow these steps:
 3. Click the "Reset Password" button.
 
 4. You will receive an email with instructions on how to reset your password. Follow the provided link to set a new password for your account.
+
 
