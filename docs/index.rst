@@ -14,6 +14,8 @@ Welcome to the official documentation for the Vacancy Management System.
 
     registration
 
+.. toctree::
+    :maxdepth: 2
     :caption: Dashboard:
         dashboard
         documents
