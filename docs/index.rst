@@ -24,7 +24,7 @@ We are dedicated to providing you with a comprehensive resource to make your exp
     :caption: Contents:
 
     registration
-    dashboard
+    login
     documents
     contactinformation
     familymembers
