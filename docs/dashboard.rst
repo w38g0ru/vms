@@ -1,7 +1,7 @@
 Logging into the System
 =======================
 
-To access the dashboard and utilize the features of the system, you must first log in. Once logged in, you'll have access to various functionalities.
+To access the dashboard and utilize the features of the system, you must first log in. :ref:`Once logged in <login>`, you'll have access to various functionalities.
 
 Dashboard Overview
 ------------------
