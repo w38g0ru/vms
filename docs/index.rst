@@ -37,20 +37,10 @@ Indices and Search
 * :ref:`modindex`
 * :ref:`search`
 
-Registration
-------------
-
-.. include:: registration.rst
-
 Login
 -----
 
 .. include:: login.rst
-
-Forgot Password
----------------
-
-.. include:: forgot_password.rst
 
 Dashboard
 ---------
