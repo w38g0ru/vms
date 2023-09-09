@@ -1,3 +1,18 @@
+Welcome to the Official Vacancy Management System Documentation
+============================================================
+
+Introduction
+------------
+
+Greetings to all users accessing the Vacancy Management System documentation. This introduction extends a warm welcome, emphasizing the document's purpose to deliver valuable insights and comprehensive guidance on the system's functionalities.
+
+Origins and Purpose
+--------------------
+
+This documentation is meticulously crafted, drawing inspiration from the established practices and exacting requirements of the recruitment process at B.P. Koirala Institute of Health. It is tailored to meet the unique demands of the institute's recruitment procedures.
+
+We are dedicated to providing you with a comprehensive resource to make your experience with the Vacancy Management System as smooth and effective as possible.
+
 Logging into the System
 =======================
 
