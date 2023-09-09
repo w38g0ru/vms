@@ -8,9 +8,6 @@ Welcome to the official documentation for the Vacancy Management System.
 .. note::
     This documentation is a work in progress and will be updated regularly. If you have any feedback or encounter issues, please let us know.
 
-Contents
---------
-
 .. toctree::
     :maxdepth: 2
     :caption: Contents:
