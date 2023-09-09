@@ -14,7 +14,7 @@ Welcome to the official documentation for the Vacancy Management System.
 
     registration
 
-    :caption: Dashboard
+    :caption: Dashboard:
         dashboard
         documents
         contactinformation
