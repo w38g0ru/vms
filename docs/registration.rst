@@ -16,7 +16,7 @@ To begin the registration process, please follow these simple steps:
 
    - Scroll down to the bottom-left of the login form on the page.
    - Click on the "Not yet registered?" link.
-   - Alternatively, you can directly access the registration page by visiting this "link_" .._link: https://vacancy.bpkihs.edu/register
+   - Alternatively, you can directly access the registration page by visiting this `link <https://vacancy.bpkihs.edu/register>`_.
 
 .. admonition:: Registration Instructions
    :class: registration-info-card
