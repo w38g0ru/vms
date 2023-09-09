@@ -2,7 +2,7 @@
 Accessing the System 
 ==========================
 --------------------------
-Logging In
+Registration
 --------------------------
 
 To register in the Vacancy Management System, you must first create an account. Follow these steps to get started:
@@ -11,7 +11,8 @@ To register in the Vacancy Management System, you must first create an account. 
 
 2. Provide accurate information as mentioned on the page. False or inaccurate information may result in the suspension of your account. Please note that each email address can be associated with only one account, so be cautious.
 
-3. Complete the registration process by following the on-screen instructions. Please  go to  :doc: 'registration' for more information.
+3. Complete the registration process by following the on-screen instructions. For more information, please go to :doc:`registration`.
+
 
 --------------------------
 Logging In
