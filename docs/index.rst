@@ -33,7 +33,7 @@ We are dedicated to providing you with a comprehensive resource to make your exp
     publication
     research
 
-.. include:: dashbaord.rst
+.. include:: dashboard.rst
 
 Feedback and Support
 --------------------
