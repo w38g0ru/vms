@@ -11,12 +11,7 @@ Welcome to the official documentation for the Vacancy Management System.
 .. toctree::
     :maxdepth: 2
     :caption: Contents:
-
-    registration
-
-.. toctree::
-    :maxdepth: 2
-    :caption: Dashboard:
+        registration
         dashboard
         documents
         contactinformation
@@ -26,14 +21,6 @@ Welcome to the official documentation for the Vacancy Management System.
         publication
         research
    
-
-Indices and Search
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
 
 .. include:: login.rst
 
