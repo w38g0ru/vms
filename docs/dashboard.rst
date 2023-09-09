@@ -21,6 +21,6 @@ On the vacancy details page, you will find a list of documents that are required
 Uploading Documents
 -------------------
 
-To apply for a vacancy, click on the name of the vacancy. This action will allow you to upload the necessary documents related to that specific job opening. Uploaded documents will be accessible from the "My Documents" section for your reference.
+To apply for a vacancy, click on the name of the vacancy. This action will allow you to upload the necessary documents related to that specific job opening. Uploaded documents will be accessible from the :doc:`documents`. section for your reference.
 
 Please ensure that you provide all the required documents accurately to complete the application process successfully.
