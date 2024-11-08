@@ -1,21 +1,21 @@
 .. _vacancy-docs:
 Welcome to the Official Vacancy Management System Documentation
-============================================================
+=================================================================
 
 Introduction
 ------------
 
-Greetings to all users accessing the Vacancy Management System documentation. This introduction extends a warm welcome, emphasizing the document's purpose to deliver valuable insights and comprehensive guidance on the system's functionalities.
+Welcome to the official documentation of the Vacancy Management System! This guide is designed to provide comprehensive insights and instructions for using the system effectively. We hope this documentation helps you understand the system's features and functionality.
 
 Origins and Purpose
 --------------------
 
-This documentation is meticulously crafted, drawing inspiration from the established practices and exacting requirements of the recruitment process at B.P. Koirala Institute of Health. It is tailored to meet the unique demands of the institute's recruitment procedures.
+This documentation is created based on the established recruitment practices at B.P. Koirala Institute of Health. It has been tailored specifically to meet the unique demands of the institute’s recruitment processes.
 
-We are dedicated to providing you with a comprehensive resource to make your experience with the Vacancy Management System as smooth and effective as possible.
+Our goal is to provide you with a user-friendly resource to ensure a seamless experience while using the Vacancy Management System.
 
 .. note::
-    This documentation is a work in progress and will be updated regularly. If you have any feedback or encounter issues, please let us know.
+    This document is continuously updated. If you have any feedback or encounter issues, please let us know.
 
 .. toctree::
     :maxdepth: 2
@@ -33,88 +33,83 @@ We are dedicated to providing you with a comprehensive resource to make your exp
 
 .. include:: dashboard.rst
 
-### Workflow for Checking an Application for a Vacancy
+Workflow for Checking an Application for a Vacancy
+==================================================
 
-Here’s a simplified non-technical explanation of the workflow for how an application for a vacancy is checked by the system, along with a list of what needs to be done to validate the application.
-
----
-
-### **1. Application Submission**
-When an applicant applies for a vacancy, they submit an application with personal details, documents, academic qualifications, work experience, publications, family information, and addresses.
+Here’s a simplified, non-technical explanation of how an application for a vacancy is checked by the system, along with a list of actions required to validate the application.
 
 ---
 
-### **2. The System Checks the Application**
+**1. Application Submission**
 
-Once the application is submitted, the system automatically performs a series of checks to ensure that the applicant meets all the required criteria for the specific vacancy. Here’s what the system checks:
-
-#### **A. Check for Required Documents**
-- **What the system does**: The system looks at the list of required documents for the vacancy (such as citizenship, education certificates, etc.). It then checks if the applicant has uploaded all the required documents.
-- **What needs to be done**: The applicant must upload the necessary documents. The system will verify that all required documents are uploaded or not. All the uploaded documents are manually verified by the BPKIHS administration
-
-#### **B. Check for Family Records**
-- **What the system does**: The system checks if the applicant has provided the necessary family details. For example, it will check if the applicant has provided information about their father and mother (as required).
-- **What needs to be done**: The applicant needs to provide family details, including their father and mother’s information.
-
-#### **C. Check for Address Records**
-- **What the system does**: The system verifies if the applicant has provided both a temporary and permanent address. These addresses are required for the application to be valid.
-- **What needs to be done**: The applicant needs to provide both a temporary and permanent address in the application.
-
-#### **D. Check for Work Experience**
-- **What the system does**: The system checks if the applicant has the required work experience for the vacancy. This is based on the vacancy's requirements (e.g., years of experience in a certain field).
-- **What needs to be done**: The applicant needs to have work experience that matches the vacancy’s requirements. If no experience is required, this check will pass automatically.
-
-#### **E. Check for Publications**
-- **What the system does**: The system checks if the applicant has published enough research or articles (if required for the vacancy). The system compares the number of publications with the vacancy’s requirement.
-- **What needs to be done**: The applicant needs to provide information about their publications if required.
-
-#### **F. Check for Required Degrees**
-- **What the system does**: The system checks if the applicant has the required academic qualifications (e.g., degrees or certifications). The system compares the degrees submitted with the ones required by the vacancy.
-- **What needs to be done**: The applicant needs to have the academic qualifications (degrees) required by the vacancy. The system will check their academic records to ensure all required degrees are provided.
+When an applicant submits an application for a vacancy, they are required to provide personal details, documents, academic qualifications, work experience, publications, family information, and addresses.
 
 ---
 
-### **3. Overall Application Validation**
+**2. The System Checks the Application**
 
-After performing all the checks, the system evaluates whether the application meets **all** the necessary requirements. Here’s the process:
+Once the application is submitted, the system automatically performs a series of checks to ensure the applicant meets the criteria for the vacancy. The system checks the following:
 
-- **If all checks pass**: The application is considered valid, and the applicant is eligible to proceed with further steps (such as an interview, etc.).
-- **If any check fails**: The system will notify the applicant which specific requirement has not been met. For example, it may say, "You need to upload your degree certificate" or "Your application is missing a publication."
+**A. Check for Required Documents**  
+- **What the system does**: The system verifies if the applicant has uploaded all the required documents (such as citizenship certificate, educational qualifications, etc.).  
+- **What needs to be done**: Ensure all required documents are uploaded. The system will verify that they are present. All documents are also manually verified by the BPKIHS administration.
 
----
+**B. Check for Family Records**  
+- **What the system does**: The system checks if the applicant has provided the necessary family details, such as information about their father and mother (as required).  
+- **What needs to be done**: Provide details about your family, including the required information about your father and mother.
 
-### **4. Workflow Summary (What Needs to be Done)**
+**C. Check for Address Records**  
+- **What the system does**: The system verifies if both a temporary and permanent address have been provided. These are necessary for the application to be valid.  
+- **What needs to be done**: Provide both a temporary and permanent address.
 
-To successfully apply for a vacancy, the applicant needs to do the following:
+**D. Check for Work Experience**  
+- **What the system does**: The system checks if the applicant has the required work experience, based on the vacancy's requirements (e.g., years of experience in a specific field).  
+- **What needs to be done**: Ensure that your work experience matches the vacancy's requirements. If work experience is not required, this check will pass automatically.
 
-1. **Upload All Required Documents**: Ensure all documents specified in the vacancy description are uploaded.
-   - Examples: ID proof, educational certificates, work experience letters, etc.
-   
-2. **Provide Family Details**: Include details about your family (e.g., father and mother’s information).
-   
-3. **Provide Address Information**: Submit both temporary and permanent addresses.
-   
-4. **Meet Work Experience Requirements**: Make sure you have the necessary work experience as specified by the vacancy.
-   - Example: Years of experience in a particular job or field.
-   
-5. **Meet Publication Requirements**: If the vacancy requires publications (e.g., research articles), ensure they are listed.
-   
-6. **Meet Degree Requirements**: Ensure that your educational qualifications (degrees) match the requirements of the vacancy.
+**E. Check for Publications**  
+- **What the system does**: The system checks if the applicant has the required number of publications (research articles, etc.), if applicable to the vacancy.  
+- **What needs to be done**: Provide information about any relevant publications, if required.
 
----
-
-### **5. Application Review Outcome**
-
-The system will automatically check all these requirements and validate the application based on the following:
-
-- **All checks are passed**: The application is complete, and the applicant meets all the requirements. The applicant can proceed to the next step in the process (e.g., interview or selection).
-  
-- **Any check fails**: The system will inform the applicant of the specific missing or invalid requirement, such as missing documents, missing degrees, or insufficient work experience. The applicant will need to correct or provide the missing information.
+**F. Check for Required Degrees**  
+- **What the system does**: The system checks if the applicant has the academic qualifications (degrees or certifications) required by the vacancy.  
+- **What needs to be done**: Ensure you meet the educational qualification requirements for the vacancy. The system will verify that all degrees are provided.
 
 ---
 
-### **6. Conclusion**
+**3. Overall Application Validation**
 
-The system works as an automated assistant to verify whether an applicant meets all the necessary criteria for a vacancy. This saves time for both the applicant and the organization, ensuring that only complete and qualified applications move forward in the hiring process.
+After completing all checks, the system evaluates whether the application meets all the necessary requirements. The process is as follows:
 
-If anything is missing or incomplete, the applicant is notified so they can provide the necessary information and meet all the requirements before the application can proceed.
+- **If all checks pass**: The application is considered valid, and the applicant can proceed to the next steps (e.g., interview or selection).  
+- **If any check fails**: The system will notify the applicant about the specific requirement that has not been met (e.g., "You need to upload your degree certificate" or "Your application is missing a publication").
+
+---
+
+**4. Workflow Summary (What Needs to be Done)**
+
+To successfully apply for a vacancy, the applicant needs to ensure the following:
+
+1. **Upload All Required Documents**: Make sure all the required documents are uploaded, such as ID proof, educational certificates, and work experience letters.  
+2. **Provide Family Details**: Include the necessary family information, such as details about your father and mother.  
+3. **Provide Address Information**: Submit both your temporary and permanent addresses.  
+4. **Meet Work Experience Requirements**: Ensure your work experience matches the vacancy’s criteria (e.g., years of experience in a specific job or field).  
+5. **Meet Publication Requirements**: If applicable, ensure you list any required publications, such as research articles or papers.  
+6. **Meet Degree Requirements**: Make sure your educational qualifications meet the requirements outlined in the job description.
+
+---
+
+**5. Application Review Outcome**
+
+The system will automatically check all these requirements and validate your application:
+
+- **If all checks pass**: The application is considered complete, and the applicant can proceed to the next steps (e.g., interview or selection).  
+- **If any check fails**: The system will notify the applicant about the specific missing or invalid requirement, such as missing documents or insufficient work experience. The applicant will need to address these issues before proceeding.
+
+---
+
+**6. Conclusion**
+
+The system acts as an automated assistant, verifying whether an applicant meets the necessary criteria for a vacancy. This saves time for both the applicant and the organization, ensuring only complete and qualified applications progress in the hiring process.
+
+If anything is missing or incomplete, the applicant will be notified to provide the necessary information and meet all the requirements before the application can proceed.
+
